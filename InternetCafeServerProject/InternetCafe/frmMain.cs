@@ -49,7 +49,7 @@ namespace InternetCafe
 
             InternetCafe.ReceiveFromClient.setupServer();
 
-            con = new SqlConnection("Data Source = TVY\\SQLEXPRESS;Initial Catalog=Cyber;User ID=vannyou;Password=computer");
+            con = new SqlConnection("Data Source=./MSSQLSERVER2019;Initial Catalog=cyber;Persist Security Info=True;User ID=sa;password=ahero889*;");
             con.Open();
 
             com = new SqlCommand("SELECT unitPrice FROM dbo.getHourPrice()", frmMain.con);

@@ -59,3 +59,24 @@ E:\My_project\C#\Internet Cafe\InternetCafeServerProject\InternetCafe\obj\Debug\
 E:\My_project\C#\Internet Cafe\InternetCafeServerProject\InternetCafe\obj\Debug\InternetCafe.csproj.GenerateResource.Cache
 E:\My_project\C#\Internet Cafe\InternetCafeServerProject\InternetCafe\obj\Debug\RdlCompile.cache
 E:\My_project\C#\Internet Cafe\InternetCafeServerProject\InternetCafe\obj\Debug\RdlCompile.compiled
+F:\Github\InternetCafe\InternetCafeServerProject\InternetCafe\obj\Debug\InternetCafe.csprojAssemblyReference.cache
+F:\Github\InternetCafe\InternetCafeServerProject\InternetCafe\obj\Debug\InternetCafe.frmCustomer.resources
+F:\Github\InternetCafe\InternetCafeServerProject\InternetCafe\obj\Debug\InternetCafe.frmHome.resources
+F:\Github\InternetCafe\InternetCafeServerProject\InternetCafe\obj\Debug\InternetCafe.frmHourPrice.resources
+F:\Github\InternetCafe\InternetCafeServerProject\InternetCafe\obj\Debug\InternetCafe.frmMain.resources
+F:\Github\InternetCafe\InternetCafeServerProject\InternetCafe\obj\Debug\InternetCafe.frmReport.resources
+F:\Github\InternetCafe\InternetCafeServerProject\InternetCafe\obj\Debug\InternetCafe.frmReportDetailCustomer.resources
+F:\Github\InternetCafe\InternetCafeServerProject\InternetCafe\obj\Debug\InternetCafe.frmStaff.resources
+F:\Github\InternetCafe\InternetCafeServerProject\InternetCafe\obj\Debug\InternetCafe.Properties.Resources.resources
+F:\Github\InternetCafe\InternetCafeServerProject\InternetCafe\obj\Debug\InternetCafe.csproj.GenerateResource.cache
+F:\Github\InternetCafe\InternetCafeServerProject\InternetCafe\obj\Debug\InternetCafe.csproj.CoreCompileInputs.cache
+F:\Github\InternetCafe\InternetCafeServerProject\InternetCafe\obj\Debug\InternetCafe.exe
+F:\Github\InternetCafe\InternetCafeServerProject\InternetCafe\obj\Debug\InternetCafe.pdb
+F:\Github\InternetCafe\InternetCafeServerProject\InternetCafe\bin\Debug\InternetCafe.exe.config
+F:\Github\InternetCafe\InternetCafeServerProject\InternetCafe\bin\Debug\InternetCafe.exe
+F:\Github\InternetCafe\InternetCafeServerProject\InternetCafe\bin\Debug\InternetCafe.pdb
+F:\Github\InternetCafe\InternetCafeServerProject\InternetCafe\bin\Debug\Microsoft.ReportViewer.Common.dll
+F:\Github\InternetCafe\InternetCafeServerProject\InternetCafe\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+F:\Github\InternetCafe\InternetCafeServerProject\InternetCafe\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+F:\Github\InternetCafe\InternetCafeServerProject\InternetCafe\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+F:\Github\InternetCafe\InternetCafeServerProject\InternetCafe\obj\Debug\InternetCafe.csproj.CopyComplete

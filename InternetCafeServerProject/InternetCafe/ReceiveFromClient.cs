@@ -15,7 +15,7 @@ namespace InternetCafe
     {
         static SqlCommand com;
         static SqlDataReader dr;
-        static IPAddress ipAd = IPAddress.Parse("192.168.43.2327");
+        static IPAddress ipAd = IPAddress.Parse("192.168.62.10");
         static byte[] buffer = new byte[1024];
         public static List<Socket> clients = new List<Socket>();
         static Socket server = new Socket(AddressFamily.InterNetwork, SocketType.Stream, ProtocolType.Tcp);
